@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="edit.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="rest.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
   <defs
@@ -515,10 +515,17 @@
     <filter
        inkscape:collect="always"
        id="filter4160"
-       x="-0.3435273"
+       x="-0.34000000000000002"
        width="1.6870546"
        y="-0.12046532"
        height="1.2409306">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         id="feGaussianBlur4400" />
+      <feColorMatrix
+         id="feColorMatrix4402"
+         result="result2"
+         values="1 0 0 0 1 0 1 0 0 1 0 0 1 0 1 0 0 0 0.5 0 " />
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -526,22 +533,27 @@
          in="SourceAlpha" />
       <feColorMatrix
          id="feColorMatrix4164"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 " />
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 " />
       <feOffset
          dx="2"
          dy="2"
          id="feOffset4166"
          result="result1" />
       <feMerge
-         id="feMerge4168">
-        <feMergeNode
-           inkscape:collect="always"
-           id="feMergeNode4170"
-           in="result1" />
+         id="feMerge4168"
+         stdDeviation="1">
         <feMergeNode
            inkscape:collect="always"
            id="feMergeNode4172"
+           in="result2" />
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode4406"
            in="SourceGraphic" />
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode4410"
+           in="result1" />
       </feMerge>
     </filter>
   </defs>
@@ -559,9 +571,9 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1916"
-     inkscape:window-height="1033"
+     inkscape:window-height="1037"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="20"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -579,7 +591,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
