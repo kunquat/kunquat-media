@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="paste.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -347,9 +347,10 @@
     <filter
        id="filter4043"
        inkscape:label="filter1"
-       x="-0.17000000000000004"
-       y="-0.10000000000000001"
-       width="1.3400000000000001">
+       x="-0.29999999999999999"
+       y="-0.29999999999999999"
+       width="1.6000000000000001"
+       height="1.6000000000000001">
       <feGaussianBlur
          stdDeviation="2"
          id="feGaussianBlur4052"
@@ -383,15 +384,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.696706"
-     inkscape:cx="26.078263"
+     inkscape:cx="25.20214"
      inkscape:cy="25.19812"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -429,32 +430,33 @@
          height="38"
          width="34"
          id="rect3933"
-         style="fill:#8f5902;fill-opacity:1;stroke:#5f3b01;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;" />
+         style="fill:#8f5902;fill-opacity:1;stroke:#5f3b01;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
          id="rect3931"
-         d="m 12,8 24,0 0,23 -6,9 -18,0 z"
-         style="fill:url(#radialGradient3952);fill-opacity:1;stroke:none;"
+         d="m 12,8 h 24 v 23 l -6,9 H 12 Z"
+         style="fill:url(#radialGradient3952);fill-opacity:1;stroke:none"
          transform="translate(0,1004.3622)" />
       <path
          id="path3936"
          d="m 30,1044.3622 c 0,0 -3,-5 -2,-7 4,1 8,-2 8,-2"
-         style="fill:url(#radialGradient3962);fill-opacity:1;stroke:url(#radialGradient3984);stroke-opacity:1;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;" />
+         style="fill:url(#radialGradient3962);fill-opacity:1;stroke:url(#radialGradient3984);stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccc"
          transform="translate(0,1004.3622)"
          inkscape:connector-curvature="0"
          id="path3986"
-         d="m 28,42 9,0 -1,-11 -6,9 z"
-         style="fill:url(#radialGradient3995);fill-opacity:1;stroke:none;" />
+         d="m 28,42 h 9 l -1,-11 -6,9 z"
+         style="fill:url(#radialGradient3995);fill-opacity:1;stroke:none" />
       <path
          sodipodi:nodetypes="ccccc"
          transform="translate(0,1004.3622)"
          inkscape:connector-curvature="0"
          id="path4018"
-         d="m 19,2 10,0 5,8 -20,0 z"
-         style="fill:url(#radialGradient4035);fill-opacity:1;stroke:#888a85;stroke-opacity:1;" />
+         d="m 19,2 h 10 l 5,8 H 14 Z"
+         style="fill:url(#radialGradient4035);fill-opacity:1;stroke:#888a85;stroke-opacity:1" />
     </g>
   </g>
 </svg>

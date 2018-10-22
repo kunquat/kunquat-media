@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="edit.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -492,10 +492,10 @@
     <filter
        inkscape:collect="always"
        id="filter4188"
-       x="-0.17275166"
-       width="1.3455033"
-       y="-0.17319485"
-       height="1.3463897">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -517,15 +517,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="46.621215"
+     inkscape:cx="23.833794"
      inkscape:cy="26.092291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -576,7 +576,7 @@
          inkscape:connector-curvature="0" />
       <path
          transform="matrix(0.67953908,0.3074712,-0.54082223,0.86980444,53.982869,1040.6246)"
-         d="M 5,-1.0675022e-7 4.0179493,-3.4330126 3.0358985,-6.8660254 6.4999999,-6 9.9641015,-5.1339745 7.4820508,-2.5669874 z"
+         d="M 5,-1.0675022e-7 4.0179493,-3.4330126 3.0358985,-6.8660254 6.4999999,-6 9.9641015,-5.1339745 7.4820508,-2.5669874 Z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="false"
@@ -588,14 +588,14 @@
          sodipodi:cx="6"
          sodipodi:sides="3"
          id="path4168"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.65400004;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.65400004;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:type="star" />
     </g>
     <g
        id="g3958"
        transform="matrix(0.84695264,-0.17736321,-0.17775152,0.8451024,187.44384,162.61243)">
       <rect
-         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         transform="rotate(45)"
          y="687.03766"
          x="739.03326"
          height="42.048759"
@@ -603,7 +603,7 @@
          id="rect3858"
          style="fill:url(#radialGradient3993);fill-opacity:1;stroke:none" />
       <rect
-         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         transform="rotate(45)"
          y="686.94391"
          x="745.90497"
          height="42.048759"
@@ -611,7 +611,7 @@
          id="rect3864"
          style="fill:url(#linearGradient3995);fill-opacity:1;stroke:none" />
       <rect
-         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         transform="rotate(45)"
          style="fill:url(#radialGradient3997);fill-opacity:1;stroke:none"
          id="rect3862"
          width="3.2462897"
@@ -622,7 +622,7 @@
          inkscape:transform-center-y="-0.68499483"
          inkscape:transform-center-x="-0.63483924"
          transform="matrix(0.4511097,-0.66832781,0.66832781,0.4511097,2.5927542,1036.9483)"
-         d="M -1.4135678e-7,17 -4.0980762,13.366025 -8.1961525,9.7320506 -3.0000001,8 2.1961526,6.2679493 1.0980763,11.633975 z"
+         d="M -1.4135678e-7,17 -4.0980762,13.366025 -8.1961525,9.7320506 -3.0000001,8 2.1961526,6.2679493 1.0980763,11.633975 Z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="false"
@@ -650,7 +650,7 @@
          inkscape:flatsided="false"
          inkscape:rounded="0"
          inkscape:randomized="0"
-         d="M -1.4135678e-7,17 -4.0980762,13.366025 -8.1961525,9.7320506 -3.0000001,8 2.1961526,6.2679493 1.0980763,11.633975 z"
+         d="M -1.4135678e-7,17 -4.0980762,13.366025 -8.1961525,9.7320506 -3.0000001,8 2.1961526,6.2679493 1.0980763,11.633975 Z"
          transform="matrix(0.19475974,-0.28854036,0.28854036,0.19475974,4.3645583,1042.5559)"
          inkscape:transform-center-x="-0.27408224"
          inkscape:transform-center-y="-0.29574274" />

@@ -14,7 +14,7 @@
    height="64"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="warning.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -160,7 +160,11 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter3955">
+       id="filter3955"
+       x="-0.29999999999999999"
+       y="-0.29999999999999999"
+       width="1.6000000000000001"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1"
@@ -195,16 +199,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.3153846"
-     inkscape:cx="38.921213"
+     inkscape:cx="37.633021"
      inkscape:cy="29.520666"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-object-midpoints="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -238,7 +242,7 @@
       <path
          inkscape:transform-center-y="-7.4327694"
          transform="matrix(0.89318374,0,0,0.89318374,3.4181203,994.20757)"
-         d="m 60.827069,52.643316 -28.827069,0 -28.8270695,0 L 17.586465,27.678342 32,2.7133675 46.413534,27.678341 z"
+         d="m 60.827069,52.643316 -28.827069,0 -28.8270695,0 L 17.586465,27.678342 32,2.7133675 46.413534,27.678341 Z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="false"

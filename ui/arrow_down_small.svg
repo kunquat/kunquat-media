@@ -14,8 +14,8 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="arrow_up_small.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="arrow_down_small.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
   <defs
@@ -228,10 +228,10 @@
     <filter
        inkscape:collect="always"
        id="filter3989"
-       x="-0.17865724"
-       width="1.3573145"
-       y="-0.17810039"
-       height="1.3562008">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -266,15 +266,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.839715"
-     inkscape:cx="15.821052"
+     inkscape:cx="15.148396"
      inkscape:cy="16.896366"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -308,16 +308,16 @@
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
          id="path3755"
-         d="m 16,1047.3622 -11,-15 8,2 0,-10 6,0 0,10 8,-2 z"
+         d="m 16,1047.3622 -11,-15 8,2 v -10 h 6 v 10 l 8,-2 z"
          style="fill:url(#radialGradient3906);fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          id="path3755-9"
-         d="m 13.928312,1024.8298 0,10 -7.9999997,-2 0.96875,1.3437 7.9062497,1.9688 0,-10 5.125,0 0,-1.3125 -6,0 z m 14,8 -7.125,1.7812 0,1.5313 5.75,-1.4375 1.375,-1.875 z"
+         d="m 13.928312,1024.8298 v 10 l -7.9999997,-2 0.96875,1.3437 7.9062497,1.9688 v -10 h 5.125 v -1.3125 z m 14,8 -7.125,1.7812 v 1.5313 l 5.75,-1.4375 z"
          style="fill:url(#radialGradient3960);fill-opacity:1;stroke:none" />
       <path
-         style="fill:none;stroke:#555753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 16,1047.3622 -11,-15 8,2 0,-10 6,0 0,10 8,-2 z"
+         style="fill:none;stroke:#555753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 16,1047.3622 -11,-15 8,2 v -10 h 6 v 10 l 8,-2 z"
          id="path3849"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc" />

@@ -14,7 +14,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="input_full.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -205,10 +205,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1037"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:snap-object-midpoints="false"
      inkscape:object-nodes="true"
@@ -242,13 +242,13 @@
      transform="translate(0,-1028.3622)">
     <path
        style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2,1050.3622 3,-3 14,0 0,-10 3,-3 0,16 z"
+       d="m 2,1050.3622 3,-3 h 14 v -10 l 3,-3 v 16 z"
        id="path4268"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ffffff;fill-opacity:0.49803922;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 22,1034.3622 -3,3 -14,0 0,10 -3,3 0,-16 z"
+       d="m 22,1034.3622 -3,3 H 5 v 10 l -3,3 v -16 z"
        id="path4268-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />

@@ -14,8 +14,8 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="arrow_up_small.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="delete_small.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -136,10 +136,10 @@
     <filter
        inkscape:collect="always"
        id="filter3920"
-       x="-0.17837831"
-       width="1.3567566"
-       y="-0.17837844"
-       height="1.3567569">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -174,15 +174,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.839715"
-     inkscape:cx="10.832183"
+     inkscape:cx="10.159527"
      inkscape:cy="16.896366"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -210,8 +210,8 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="fill:url(#radialGradient3890);fill-opacity:1;stroke:#a40000;stroke-width:1.60000000000000009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3920)"
-       d="M 23.071068,1025.0485 16,1032.1196 l -7.0710678,-7.0711 -4.2426407,4.2426 7.0710675,7.0711 -7.0710675,7.0711 4.2426407,4.2426 L 16,1040.6048 l 7.071068,7.0711 4.24264,-4.2426 -7.071067,-7.0711 7.071067,-7.0711 -4.24264,-4.2426 z"
+       style="fill:url(#radialGradient3890);fill-opacity:1;stroke:#a40000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3920)"
+       d="M 23.071068,1025.0485 16,1032.1196 l -7.0710678,-7.0711 -4.2426407,4.2426 7.0710675,7.0711 -7.0710675,7.0711 4.2426407,4.2426 L 16,1040.6048 l 7.071068,7.0711 4.24264,-4.2426 -7.071067,-7.0711 7.071067,-7.0711 z"
        id="rect3854"
        inkscape:connector-curvature="0" />
   </g>

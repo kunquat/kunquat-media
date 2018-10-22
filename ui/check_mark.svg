@@ -15,7 +15,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="check_mark.svg"
    inkscape:export-xdpi="67.5"
    inkscape:export-ydpi="67.5">
@@ -60,10 +60,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Blur"
        id="filter4176"
-       x="-0.11000000000000001"
-       width="1.25"
-       height="1.22"
-       y="-0.11">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       height="1.6000000000000001"
+       y="-0.29999999999999999">
       <feGaussianBlur
          stdDeviation="0.5 0.5"
          result="blur"
@@ -98,17 +98,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.007317"
-     inkscape:cx="7.0221031"
+     inkscape:cx="6.2224931"
      inkscape:cy="8.9835894"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:snap-nodes="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1037"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -132,7 +132,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:url(#radialGradient4148);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter4176);stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:url(#radialGradient4148);fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4176)"
        d="m 1.5330733,1046.1623 c 0,0 1.40013,1.3335 2.3000975,2.1002 0.8999675,0.7667 3.1663417,2.6999 3.1663417,2.6999 0,0 1.40078,-3.7334 3.1673175,-6.5002 1.766537,-2.7668 4.300097,-6.4337 4.300097,-6.4337 l -4.199903,0.2004 c 0,0 -1.5333981,2.3336 -2.3667314,3.6669 -0.8333333,1.3333 -1.6337559,3.3337 -1.6337559,3.3337 l -2.5330734,-1.6669 z"
        id="path4140"
        inkscape:connector-curvature="0"

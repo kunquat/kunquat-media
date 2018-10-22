@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="rest.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="undo.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
   <defs
@@ -540,10 +540,10 @@
     <filter
        inkscape:collect="always"
        id="filter4376"
-       x="-0.14178773"
-       width="1.2835755"
-       y="-0.16229843"
-       height="1.3245969"
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001"
        inkscape:label="filter4376">
       <feGaussianBlur
          inkscape:collect="always"
@@ -579,15 +579,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="31.683584"
+     inkscape:cx="30.622924"
      inkscape:cy="26.092291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -633,7 +633,7 @@
          inkscape:connector-curvature="0"
          id="path4211"
          d="m 4.4446307,1034.7039 16.3570043,-1.2035 -5.185065,-3.985 7.153664,-5.8193 c 0,0 7.229766,-6.3339 11.229766,-2.3339 8.514693,8.5147 -7,20 -6,25 5,-1 23,-20 12,-30 -11,-10 -22,1 -22,1 l -7.359711,6.8943 -3.1632413,-5.671 z"
-         style="fill:none;fill-opacity:1;stroke:#2e3436;stroke-width:1.60000001999999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;fill-opacity:1;stroke:#2e3436;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

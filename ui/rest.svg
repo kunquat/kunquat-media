@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="rest.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -515,10 +515,10 @@
     <filter
        inkscape:collect="always"
        id="filter4160"
-       x="-0.34000000000000002"
-       width="1.6870546"
-       y="-0.12046532"
-       height="1.2409306">
+       x="-0.5"
+       width="2"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          stdDeviation="1.5"
          id="feGaussianBlur4400" />
@@ -565,15 +565,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="31.683584"
+     inkscape:cx="30.622924"
      inkscape:cy="26.092291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1037"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -591,7 +591,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -601,12 +601,13 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <g
-       style="font-size:63.35564803999999839px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;filter:url(#filter4160)"
+       style="font-style:normal;font-weight:normal;font-size:63.35564804px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4160)"
        id="text4119">
       <path
-         d="m 17.484561,1037.1842 c -4e-6,-1.436 0.464604,-2.5342 1.393824,-3.2945 0.971447,-0.7602 2.090729,-1.1404 3.357849,-1.1404 0.844733,0 1.858422,0.2323 3.041071,0.6969 l -7.159188,-9.3766 c 3.378961,-3.0411 5.068443,-5.7653 5.068452,-8.1729 -9e-6,-1.9006 -1.14041,-4.3081 -3.421205,-7.2225 l 2.851004,0 8.109523,9.8834 c -3.505692,4.1393 -5.25853,7.2226 -5.258519,9.25 -1.1e-5,1.9429 1.647234,4.8784 4.941741,8.8064 l -1.013691,1.4572 c -1.689497,-0.9715 -3.104439,-1.4572 -4.244828,-1.4572 -1.520545,0 -2.280812,0.9292 -2.280803,2.7877 -9e-6,1.8584 0.823613,3.7379 2.47087,5.6386 l -0.886979,1.3938 c -4.646087,-3.4634 -6.969125,-6.5467 -6.969121,-9.2499"
-         style="fill:url(#radialGradient4132);fill-opacity:1;"
-         id="path4124" />
+         d="m 17.484561,1037.1842 c -4e-6,-1.436 0.464604,-2.5342 1.393824,-3.2945 0.971447,-0.7602 2.090729,-1.1404 3.357849,-1.1404 0.844733,0 1.858422,0.2323 3.041071,0.6969 l -7.159188,-9.3766 c 3.378961,-3.0411 5.068443,-5.7653 5.068452,-8.1729 -9e-6,-1.9006 -1.14041,-4.3081 -3.421205,-7.2225 h 2.851004 l 8.109523,9.8834 c -3.505692,4.1393 -5.25853,7.2226 -5.258519,9.25 -1.1e-5,1.9429 1.647234,4.8784 4.941741,8.8064 l -1.013691,1.4572 c -1.689497,-0.9715 -3.104439,-1.4572 -4.244828,-1.4572 -1.520545,0 -2.280812,0.9292 -2.280803,2.7877 -9e-6,1.8584 0.823613,3.7379 2.47087,5.6386 l -0.886979,1.3938 c -4.646087,-3.4634 -6.969125,-6.5467 -6.969121,-9.2499"
+         style="fill:url(#radialGradient4132);fill-opacity:1"
+         id="path4124"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

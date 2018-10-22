@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="play_from_cursor.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -140,7 +140,11 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter4048">
+       id="filter4048"
+       x="-0.29999999999999999"
+       y="-0.29999999999999999"
+       width="1.6000000000000001"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -180,10 +184,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
+     inkscape:window-width="3828"
+     inkscape:window-height="2065"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -201,7 +205,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -212,7 +216,7 @@
      transform="translate(0,-1004.3622)">
     <path
        style="fill:url(#linearGradient3893);fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 8.0407356,1018.4046 9.0703084,15.3518 9.070412,15.352 1.190016,-2.1679 -6.504328,-11.0088 -9.070361,-15.3519 17.553836,-0.036 12.596044,0 1.189966,-2.168 -17.524306,0.019 -17.5715874,0.01 z"
+       d="m 8.0407356,1018.4046 9.0703084,15.3518 9.070412,15.352 1.190016,-2.1679 -6.504328,-11.0088 -9.070361,-15.3519 17.553836,-0.036 h 12.596044 l 1.189966,-2.168 -17.524306,0.019 -17.5715874,0.01 z"
        id="path2997-4"
        inkscape:connector-curvature="0" />
     <g
@@ -222,7 +226,7 @@
          inkscape:transform-center-y="5.0390625"
          inkscape:transform-center-x="-4.4473885e-05"
          transform="matrix(0,1.0979773,-1.1210206,0,51.029406,1001.1274)"
-         d="m 14.82122,39.898113 0,-15.898113 0,-15.8981126 L 28.58939,16.050944 42.357559,24 28.589389,31.949057 z"
+         d="m 14.82122,39.898113 0,-15.898113 0,-15.8981126 L 28.58939,16.050944 42.357559,24 28.589389,31.949057 Z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="false"
@@ -234,7 +238,7 @@
          sodipodi:cx="24"
          sodipodi:sides="3"
          id="path2997"
-         style="fill:url(#linearGradient3775);fill-opacity:1;fill-rule:evenodd;stroke:#2c5504;stroke-width:1.80271268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:url(#linearGradient3775);fill-opacity:1;fill-rule:evenodd;stroke:#2c5504;stroke-width:1.80271268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:type="star" />
       <rect
          y="1007.4388"
@@ -242,7 +246,7 @@
          height="5.8190298"
          width="37.84676"
          id="rect3943"
-         style="fill:url(#linearGradient3959);fill-opacity:1;stroke:#204a87;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:url(#linearGradient3959);fill-opacity:1;stroke:#204a87;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

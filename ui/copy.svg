@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="copy.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -460,10 +460,10 @@
     <filter
        inkscape:collect="always"
        id="filter4024"
-       x="-0.17978079"
-       width="1.3595616"
-       y="-0.15690817"
-       height="1.3138163">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -498,15 +498,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.696706"
-     inkscape:cx="23.743597"
+     inkscape:cx="22.867474"
      inkscape:cy="26.145183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -525,7 +525,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -543,19 +543,19 @@
          transform="translate(-5.0377076,-2.9934205)"
          id="g4297">
         <path
-           style="fill:url(#radialGradient4302);fill-opacity:1;stroke:#555753;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
-           d="m 12,1012.3622 24,0 0,23 -6,9 -18,0 z"
+           style="fill:url(#radialGradient4302);fill-opacity:1;stroke:#555753;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 12,1012.3622 h 24 v 23 l -6,9 H 12 Z"
            id="rect3931"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccc" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:url(#radialGradient4304);fill-opacity:1;stroke:url(#radialGradient4306);stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
+           style="fill:url(#radialGradient4304);fill-opacity:1;stroke:url(#radialGradient4306);stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 30,1044.3622 c 0,0 -3,-5 -2,-7 4,1 8,-2 8,-2"
            id="path3936" />
         <path
-           style="fill:url(#radialGradient4308);fill-opacity:1;stroke:none;"
-           d="m 28,1046.3622 9,0 -1,-11 -6,9 z"
+           style="fill:url(#radialGradient4308);fill-opacity:1;stroke:none"
+           d="m 28,1046.3622 h 9 l -1,-11 -6,9 z"
            id="path3986"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
@@ -564,19 +564,19 @@
          transform="translate(4.9541021,3.0991695)"
          id="g4297-8">
         <path
-           style="fill:url(#radialGradient4302-2);fill-opacity:1;stroke:#555753;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
-           d="m 12,1012.3622 24,0 0,23 -6,9 -18,0 z"
+           style="fill:url(#radialGradient4302-2);fill-opacity:1;stroke:#555753;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 12,1012.3622 h 24 v 23 l -6,9 H 12 Z"
            id="rect3931-6"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccc" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:url(#radialGradient4304-8);fill-opacity:1;stroke:url(#radialGradient4306-4);stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;"
+           style="fill:url(#radialGradient4304-8);fill-opacity:1;stroke:url(#radialGradient4306-4);stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 30,1044.3622 c 0,0 -3,-5 -2,-7 4,1 8,-2 8,-2"
            id="path3936-4" />
         <path
-           style="fill:url(#radialGradient4342);fill-opacity:1;stroke:none;"
-           d="m 28,1046.3622 9,0 -1,-11 -6,9 z"
+           style="fill:url(#radialGradient4342);fill-opacity:1;stroke:none"
+           d="m 28,1046.3622 h 9 l -1,-11 -6,9 z"
            id="path3986-4"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />

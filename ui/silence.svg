@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="silence.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -245,10 +245,10 @@
     <filter
        inkscape:collect="always"
        id="filter3914"
-       x="-0.17000000000000004"
-       width="1.3400000000000001"
-       y="-0.17000000000000004"
-       height="1.3400000000000001">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -283,15 +283,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="31.213811"
+     inkscape:cx="24.805656"
      inkscape:cy="25.292077"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
+     inkscape:window-width="3828"
+     inkscape:window-height="2065"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -319,7 +319,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       style="fill:url(#linearGradient3908);fill-opacity:1;stroke:#555753;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3914)"
+       style="fill:url(#linearGradient3908);fill-opacity:1;stroke:#555753;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3914)"
        id="rect3899"
        width="34"
        height="34"
@@ -327,7 +327,7 @@
        y="7"
        transform="translate(0,1004.3622)" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:url(#linearGradient3920);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient3920);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3912"
        width="30"
        height="30"

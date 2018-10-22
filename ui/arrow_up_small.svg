@@ -14,8 +14,8 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="arrow_up_small.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -113,10 +113,10 @@
     <filter
        inkscape:collect="always"
        id="filter3868"
-       x="-0.17137592"
-       width="1.3427518"
-       y="-0.16392479"
-       height="1.3278496">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -151,15 +151,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.839715"
-     inkscape:cx="15.821052"
+     inkscape:cx="15.148396"
      inkscape:cy="16.896366"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -194,17 +194,17 @@
          transform="translate(0,1020.3622)"
          inkscape:connector-curvature="0"
          id="path3755"
-         d="m 16,4 -11,15 8,-2 0,10 6,0 0,-10 8,2 z"
-         style="fill:url(#radialGradient3763);stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1" />
+         d="M 16,4 5,19 13,17 v 10 h 6 V 17 l 8,2 z"
+         style="fill:url(#radialGradient3763);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path3755-0"
-         d="m 16.425772,1024.7593 -10.9999991,15 3.7187498,-0.9375 8.8124993,-12 -1.53125,-2.0625 z"
+         d="m 16.425772,1024.7593 -10.9999991,15 3.7187498,-0.9375 8.8124993,-12 z"
          style="fill:url(#radialGradient3839);fill-opacity:1;stroke:none" />
       <path
          transform="translate(0,1020.3622)"
-         style="fill:none;stroke:#555753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
-         d="m 16,4 -11,15 8,-2 0,10 6,0 0,-10 8,2 z"
+         style="fill:none;fill-opacity:1;stroke:#555753;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 16,4 5,19 13,17 v 10 h 6 V 17 l 8,2 z"
          id="path3849"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc" />

@@ -15,7 +15,7 @@
    viewBox="0 0 16 16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="radio_mark.svg"
    inkscape:export-xdpi="67.5"
    inkscape:export-ydpi="67.5">
@@ -93,10 +93,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4302"
-       x="-0.4464"
-       width="1.8928"
-       y="-0.4464"
-       height="1.8928">
+       x="-0.5"
+       width="2"
+       y="-0.5"
+       height="2">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1"
@@ -131,17 +131,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="30.014634"
-     inkscape:cx="7.844373"
+     inkscape:cx="7.444568"
      inkscape:cy="8.3340186"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:snap-nodes="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1037"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -165,7 +165,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <circle
-       style="opacity:1;fill:url(#radialGradient4244);fill-opacity:1;stroke:#555753;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4302)"
+       style="opacity:1;fill:url(#radialGradient4244);fill-opacity:1;stroke:#555753;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4302)"
        id="path4236"
        cx="8"
        cy="1044.3622"

@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="add.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -127,10 +127,10 @@
     <filter
        inkscape:collect="always"
        id="filter4090"
-       x="-0.16756757"
-       width="1.3351351"
-       y="-0.16756757"
-       height="1.3351351">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -165,15 +165,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="15.127131"
+     inkscape:cx="14.066471"
      inkscape:cy="29.753281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -201,9 +201,10 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="fill:url(#radialGradient4011);fill-opacity:1;stroke:#204a87;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4090)"
-       d="M 21 7 L 21 21 L 7 21 L 7 27 L 21 27 L 21 41 L 27 41 L 27 27 L 41 27 L 41 21 L 27 21 L 27 7 L 21 7 z "
+       style="fill:url(#radialGradient4011);fill-opacity:1;stroke:#204a87;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4090)"
+       d="M 21,7 V 21 H 7 v 6 h 14 v 14 h 6 V 27 H 41 V 21 H 27 V 7 Z"
        transform="translate(0,1004.3622)"
-       id="rect3943" />
+       id="rect3943"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

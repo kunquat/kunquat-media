@@ -14,8 +14,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="remove_pattern.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="delete.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
   <defs
@@ -157,10 +157,10 @@
     <filter
        inkscape:collect="always"
        id="filter3896"
-       x="-0.23473117"
-       width="1.4694623"
-       y="-0.20040854"
-       height="1.4008171">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-0.29999999999999999"
+       height="1.6000000000000001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -195,15 +195,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="14.68519"
+     inkscape:cx="13.62453"
      inkscape:cy="22.682213"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:snap-object-midpoints="true">
     <inkscape:grid
@@ -232,8 +232,8 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="fill:url(#radialGradient3117);fill-opacity:1;stroke:#a40000;stroke-width:1.48369299999999993;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3896)"
-       d="M 34.299874,1012.0405 24,1024.1044 l -10.299874,-12.0639 -3.63525,4.2579 10.299874,12.0638 -10.299874,12.0638 3.63525,4.2579 L 24,1032.62 l 10.299874,12.0639 3.63525,-4.2579 -10.299874,-12.0638 10.299874,-12.0638 -3.63525,-4.2579 z"
+       style="fill:url(#radialGradient3117);fill-opacity:1;stroke:#a40000;stroke-width:1.483693;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3896)"
+       d="M 34.299874,1012.0405 24,1024.1044 l -10.299874,-12.0639 -3.63525,4.2579 10.299874,12.0638 -10.299874,12.0638 3.63525,4.2579 L 24,1032.62 l 10.299874,12.0639 3.63525,-4.2579 -10.299874,-12.0638 10.299874,-12.0638 z"
        id="rect6410"
        inkscape:connector-curvature="0" />
   </g>

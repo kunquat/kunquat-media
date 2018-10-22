@@ -14,7 +14,7 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="remove.svg"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -123,10 +123,10 @@
     <filter
        inkscape:collect="always"
        id="filter3971"
-       x="-0.17488084"
-       width="1.3497617"
-       y="-0.99098858"
-       height="2.9819772">
+       x="-0.29999999999999999"
+       width="1.6000000000000001"
+       y="-1"
+       height="4">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2"
@@ -161,15 +161,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="15.127131"
+     inkscape:cx="14.066471"
      inkscape:cy="29.753281"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1033"
-     inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-width="1908"
+     inkscape:window-height="2065"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -187,7 +187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,7 +197,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       style="fill:url(#linearGradient3103);fill-opacity:1;stroke:#204a87;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3971)"
+       style="fill:url(#linearGradient3103);fill-opacity:1;stroke:#204a87;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3971)"
        id="rect3943"
        width="34"
        height="6.0000172"
